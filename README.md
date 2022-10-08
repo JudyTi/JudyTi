@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hello 👋🏻
+
+### Welcome to my github page!!!!!
+
+- My name is **Judy Tian**. 
+
+- 😄 Pronouns: She/her
+
+- A senior at University of Washington, double major in Computer Science and ACMS (Applied and Computational Math Sciences) - Data Science track. 
+
+- During Summer 2022, I did an internship at F5. 
 
 <!--
 **JudyTi/JudyTi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
