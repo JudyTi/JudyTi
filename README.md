@@ -1,6 +1,4 @@
-# Hello 👋🏻
-
-### Welcome to my github page!!!!!
+### 👋🏻 Welcome to **Judy Tian**'s github page!!!!!
 
 - My name is **Judy Tian**. 
 
